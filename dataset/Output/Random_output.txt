@@ -1,0 +1,695 @@
+File Name: 
+===========================================================
+Examples labeled as 1 classified by model as 68: 1 times
+Examples labeled as 1 classified by model as 411: 2 times
+Examples labeled as 2 classified by model as 1: 1 times
+Examples labeled as 2 classified by model as 132: 2 times
+Examples labeled as 2 classified by model as 392: 2 times
+Examples labeled as 3 classified by model as 262: 2 times
+Examples labeled as 4 classified by model as 4: 3 times
+Examples labeled as 4 classified by model as 27: 1 times
+Examples labeled as 4 classified by model as 64: 1 times
+Examples labeled as 4 classified by model as 80: 1 times
+Examples labeled as 4 classified by model as 548: 1 times
+Examples labeled as 5 classified by model as 169: 1 times
+Examples labeled as 6 classified by model as 58: 2 times
+Examples labeled as 7 classified by model as 7: 1 times
+Examples labeled as 7 classified by model as 71: 1 times
+Examples labeled as 7 classified by model as 73: 1 times
+Examples labeled as 8 classified by model as 19: 1 times
+Examples labeled as 9 classified by model as 10: 1 times
+Examples labeled as 12 classified by model as 12: 19 times
+Examples labeled as 13 classified by model as 35: 2 times
+Examples labeled as 13 classified by model as 178: 1 times
+Examples labeled as 13 classified by model as 194: 1 times
+Examples labeled as 13 classified by model as 378: 1 times
+Examples labeled as 19 classified by model as 19: 2 times
+Examples labeled as 19 classified by model as 20: 3 times
+Examples labeled as 19 classified by model as 73: 1 times
+Examples labeled as 20 classified by model as 19: 2 times
+Examples labeled as 20 classified by model as 73: 1 times
+Examples labeled as 20 classified by model as 77: 1 times
+Examples labeled as 20 classified by model as 84: 1 times
+Examples labeled as 22 classified by model as 93: 1 times
+Examples labeled as 23 classified by model as 290: 1 times
+Examples labeled as 23 classified by model as 433: 1 times
+Examples labeled as 26 classified by model as 32: 1 times
+Examples labeled as 26 classified by model as 77: 1 times
+Examples labeled as 27 classified by model as 27: 23 times
+Examples labeled as 27 classified by model as 69: 2 times
+Examples labeled as 27 classified by model as 93: 1 times
+Examples labeled as 27 classified by model as 122: 1 times
+Examples labeled as 27 classified by model as 132: 1 times
+Examples labeled as 27 classified by model as 135: 1 times
+Examples labeled as 27 classified by model as 238: 1 times
+Examples labeled as 27 classified by model as 251: 1 times
+Examples labeled as 32 classified by model as 4: 1 times
+Examples labeled as 32 classified by model as 27: 1 times
+Examples labeled as 35 classified by model as 35: 2 times
+Examples labeled as 37 classified by model as 167: 1 times
+Examples labeled as 40 classified by model as 40: 2 times
+Examples labeled as 41 classified by model as 15: 1 times
+Examples labeled as 45 classified by model as 45: 1 times
+Examples labeled as 45 classified by model as 58: 1 times
+Examples labeled as 45 classified by model as 64: 2 times
+Examples labeled as 45 classified by model as 77: 1 times
+Examples labeled as 45 classified by model as 556: 1 times
+Examples labeled as 46 classified by model as 7: 1 times
+Examples labeled as 46 classified by model as 46: 9 times
+Examples labeled as 46 classified by model as 154: 1 times
+Examples labeled as 46 classified by model as 157: 2 times
+Examples labeled as 46 classified by model as 252: 1 times
+Examples labeled as 46 classified by model as 407: 1 times
+Examples labeled as 46 classified by model as 498: 1 times
+Examples labeled as 46 classified by model as 580: 1 times
+Examples labeled as 47 classified by model as 47: 2 times
+Examples labeled as 47 classified by model as 49: 2 times
+Examples labeled as 47 classified by model as 73: 1 times
+Examples labeled as 47 classified by model as 392: 3 times
+Examples labeled as 49 classified by model as 49: 3 times
+Examples labeled as 49 classified by model as 58: 1 times
+Examples labeled as 54 classified by model as 137: 1 times
+Examples labeled as 56 classified by model as 21: 1 times
+Examples labeled as 56 classified by model as 54: 1 times
+Examples labeled as 56 classified by model as 72: 1 times
+Examples labeled as 58 classified by model as 19: 1 times
+Examples labeled as 58 classified by model as 49: 1 times
+Examples labeled as 58 classified by model as 58: 6 times
+Examples labeled as 58 classified by model as 60: 2 times
+Examples labeled as 58 classified by model as 68: 1 times
+Examples labeled as 58 classified by model as 382: 1 times
+Examples labeled as 60 classified by model as 58: 2 times
+Examples labeled as 60 classified by model as 60: 5 times
+Examples labeled as 60 classified by model as 269: 1 times
+Examples labeled as 60 classified by model as 273: 1 times
+Examples labeled as 61 classified by model as 73: 1 times
+Examples labeled as 61 classified by model as 234: 1 times
+Examples labeled as 61 classified by model as 278: 1 times
+Examples labeled as 61 classified by model as 358: 1 times
+Examples labeled as 64 classified by model as 58: 8 times
+Examples labeled as 64 classified by model as 120: 1 times
+Examples labeled as 64 classified by model as 238: 1 times
+Examples labeled as 67 classified by model as 49: 1 times
+Examples labeled as 68 classified by model as 1: 2 times
+Examples labeled as 68 classified by model as 4: 1 times
+Examples labeled as 68 classified by model as 27: 1 times
+Examples labeled as 68 classified by model as 60: 1 times
+Examples labeled as 68 classified by model as 392: 1 times
+Examples labeled as 68 classified by model as 406: 1 times
+Examples labeled as 68 classified by model as 408: 1 times
+Examples labeled as 69 classified by model as 27: 4 times
+Examples labeled as 69 classified by model as 55: 1 times
+Examples labeled as 69 classified by model as 69: 3 times
+Examples labeled as 69 classified by model as 93: 1 times
+Examples labeled as 69 classified by model as 135: 1 times
+Examples labeled as 69 classified by model as 286: 4 times
+Examples labeled as 69 classified by model as 352: 1 times
+Examples labeled as 69 classified by model as 396: 1 times
+Examples labeled as 72 classified by model as 56: 1 times
+Examples labeled as 73 classified by model as 19: 1 times
+Examples labeled as 73 classified by model as 46: 1 times
+Examples labeled as 73 classified by model as 49: 1 times
+Examples labeled as 73 classified by model as 108: 1 times
+Examples labeled as 73 classified by model as 122: 1 times
+Examples labeled as 74 classified by model as 74: 1 times
+Examples labeled as 75 classified by model as 19: 1 times
+Examples labeled as 75 classified by model as 50: 1 times
+Examples labeled as 78 classified by model as 77: 1 times
+Examples labeled as 78 classified by model as 114: 1 times
+Examples labeled as 79 classified by model as 36: 1 times
+Examples labeled as 80 classified by model as 80: 1 times
+Examples labeled as 82 classified by model as 77: 1 times
+Examples labeled as 83 classified by model as 58: 2 times
+Examples labeled as 83 classified by model as 83: 1 times
+Examples labeled as 85 classified by model as 27: 1 times
+Examples labeled as 87 classified by model as 89: 1 times
+Examples labeled as 87 classified by model as 102: 1 times
+Examples labeled as 88 classified by model as 89: 1 times
+Examples labeled as 93 classified by model as 1: 1 times
+Examples labeled as 93 classified by model as 27: 2 times
+Examples labeled as 93 classified by model as 232: 1 times
+Examples labeled as 93 classified by model as 286: 1 times
+Examples labeled as 96 classified by model as 64: 1 times
+Examples labeled as 98 classified by model as 53: 1 times
+Examples labeled as 99 classified by model as 4: 1 times
+Examples labeled as 100 classified by model as 12: 1 times
+Examples labeled as 102 classified by model as 108: 1 times
+Examples labeled as 105 classified by model as 108: 1 times
+Examples labeled as 108 classified by model as 108: 1 times
+Examples labeled as 109 classified by model as 108: 1 times
+Examples labeled as 109 classified by model as 145: 1 times
+Examples labeled as 109 classified by model as 414: 1 times
+Examples labeled as 110 classified by model as 35: 1 times
+Examples labeled as 111 classified by model as 7: 1 times
+Examples labeled as 112 classified by model as 205: 1 times
+Examples labeled as 114 classified by model as 72: 1 times
+Examples labeled as 114 classified by model as 421: 1 times
+Examples labeled as 114 classified by model as 441: 1 times
+Examples labeled as 114 classified by model as 454: 1 times
+Examples labeled as 114 classified by model as 468: 1 times
+Examples labeled as 114 classified by model as 473: 1 times
+Examples labeled as 114 classified by model as 499: 1 times
+Examples labeled as 118 classified by model as 118: 1 times
+Examples labeled as 118 classified by model as 119: 2 times
+Examples labeled as 119 classified by model as 114: 1 times
+Examples labeled as 119 classified by model as 117: 1 times
+Examples labeled as 120 classified by model as 58: 1 times
+Examples labeled as 120 classified by model as 120: 2 times
+Examples labeled as 121 classified by model as 53: 1 times
+Examples labeled as 121 classified by model as 107: 1 times
+Examples labeled as 122 classified by model as 137: 1 times
+Examples labeled as 122 classified by model as 208: 1 times
+Examples labeled as 122 classified by model as 311: 1 times
+Examples labeled as 122 classified by model as 333: 1 times
+Examples labeled as 122 classified by model as 352: 1 times
+Examples labeled as 132 classified by model as 132: 2 times
+Examples labeled as 135 classified by model as 208: 1 times
+Examples labeled as 136 classified by model as 47: 1 times
+Examples labeled as 142 classified by model as 221: 1 times
+Examples labeled as 144 classified by model as 73: 1 times
+Examples labeled as 150 classified by model as 149: 1 times
+Examples labeled as 151 classified by model as 49: 1 times
+Examples labeled as 152 classified by model as 149: 1 times
+Examples labeled as 154 classified by model as 415: 1 times
+Examples labeled as 154 classified by model as 428: 1 times
+Examples labeled as 154 classified by model as 453: 1 times
+Examples labeled as 156 classified by model as 155: 1 times
+Examples labeled as 156 classified by model as 156: 1 times
+Examples labeled as 156 classified by model as 168: 1 times
+Examples labeled as 157 classified by model as 58: 2 times
+Examples labeled as 158 classified by model as 46: 1 times
+Examples labeled as 158 classified by model as 168: 1 times
+Examples labeled as 159 classified by model as 13: 1 times
+Examples labeled as 159 classified by model as 46: 1 times
+Examples labeled as 161 classified by model as 156: 1 times
+Examples labeled as 162 classified by model as 58: 1 times
+Examples labeled as 166 classified by model as 156: 1 times
+Examples labeled as 167 classified by model as 78: 1 times
+Examples labeled as 169 classified by model as 465: 1 times
+Examples labeled as 170 classified by model as 58: 1 times
+Examples labeled as 171 classified by model as 46: 1 times
+Examples labeled as 172 classified by model as 64: 1 times
+Examples labeled as 175 classified by model as 168: 1 times
+Examples labeled as 175 classified by model as 175: 4 times
+Examples labeled as 176 classified by model as 169: 1 times
+Examples labeled as 178 classified by model as 238: 1 times
+Examples labeled as 178 classified by model as 409: 1 times
+Examples labeled as 179 classified by model as 5: 1 times
+Examples labeled as 180 classified by model as 483: 1 times
+Examples labeled as 181 classified by model as 47: 1 times
+Examples labeled as 185 classified by model as 27: 1 times
+Examples labeled as 186 classified by model as 106: 1 times
+Examples labeled as 194 classified by model as 175: 1 times
+Examples labeled as 194 classified by model as 358: 1 times
+Examples labeled as 202 classified by model as 145: 1 times
+Examples labeled as 209 classified by model as 58: 1 times
+Examples labeled as 209 classified by model as 212: 1 times
+Examples labeled as 209 classified by model as 297: 1 times
+Examples labeled as 210 classified by model as 27: 1 times
+Examples labeled as 210 classified by model as 69: 1 times
+Examples labeled as 219 classified by model as 221: 1 times
+Examples labeled as 221 classified by model as 226: 1 times
+Examples labeled as 223 classified by model as 122: 1 times
+Examples labeled as 224 classified by model as 224: 1 times
+Examples labeled as 226 classified by model as 61: 1 times
+Examples labeled as 226 classified by model as 226: 1 times
+Examples labeled as 227 classified by model as 13: 1 times
+Examples labeled as 227 classified by model as 122: 1 times
+Examples labeled as 229 classified by model as 236: 1 times
+Examples labeled as 237 classified by model as 341: 1 times
+Examples labeled as 238 classified by model as 4: 1 times
+Examples labeled as 238 classified by model as 210: 1 times
+Examples labeled as 240 classified by model as 301: 1 times
+Examples labeled as 241 classified by model as 241: 1 times
+Examples labeled as 246 classified by model as 72: 1 times
+Examples labeled as 252 classified by model as 245: 1 times
+Examples labeled as 252 classified by model as 340: 1 times
+Examples labeled as 254 classified by model as 255: 1 times
+Examples labeled as 255 classified by model as 253: 1 times
+Examples labeled as 256 classified by model as 259: 1 times
+Examples labeled as 257 classified by model as 252: 1 times
+Examples labeled as 260 classified by model as 55: 1 times
+Examples labeled as 261 classified by model as 261: 2 times
+Examples labeled as 263 classified by model as 252: 1 times
+Examples labeled as 264 classified by model as 122: 1 times
+Examples labeled as 265 classified by model as 72: 1 times
+Examples labeled as 265 classified by model as 311: 1 times
+Examples labeled as 265 classified by model as 344: 1 times
+Examples labeled as 268 classified by model as 311: 1 times
+Examples labeled as 279 classified by model as 221: 1 times
+Examples labeled as 282 classified by model as 316: 1 times
+Examples labeled as 284 classified by model as 272: 1 times
+Examples labeled as 285 classified by model as 274: 1 times
+Examples labeled as 286 classified by model as 27: 1 times
+Examples labeled as 286 classified by model as 286: 1 times
+Examples labeled as 286 classified by model as 296: 1 times
+Examples labeled as 291 classified by model as 270: 1 times
+Examples labeled as 293 classified by model as 322: 1 times
+Examples labeled as 295 classified by model as 490: 1 times
+Examples labeled as 296 classified by model as 27: 1 times
+Examples labeled as 298 classified by model as 316: 1 times
+Examples labeled as 299 classified by model as 301: 1 times
+Examples labeled as 302 classified by model as 265: 1 times
+Examples labeled as 303 classified by model as 304: 1 times
+Examples labeled as 321 classified by model as 290: 1 times
+Examples labeled as 324 classified by model as 261: 1 times
+Examples labeled as 326 classified by model as 295: 1 times
+Examples labeled as 331 classified by model as 333: 1 times
+Examples labeled as 333 classified by model as 333: 1 times
+Examples labeled as 333 classified by model as 349: 1 times
+Examples labeled as 334 classified by model as 215: 1 times
+Examples labeled as 335 classified by model as 7: 1 times
+Examples labeled as 338 classified by model as 381: 1 times
+Examples labeled as 338 classified by model as 459: 1 times
+Examples labeled as 341 classified by model as 341: 1 times
+Examples labeled as 345 classified by model as 122: 1 times
+Examples labeled as 347 classified by model as 69: 1 times
+Examples labeled as 347 classified by model as 122: 1 times
+Examples labeled as 348 classified by model as 119: 1 times
+Examples labeled as 348 classified by model as 175: 2 times
+Examples labeled as 348 classified by model as 280: 1 times
+Examples labeled as 350 classified by model as 392: 1 times
+Examples labeled as 353 classified by model as 231: 1 times
+Examples labeled as 354 classified by model as 175: 1 times
+Examples labeled as 356 classified by model as 357: 1 times
+Examples labeled as 357 classified by model as 357: 1 times
+Examples labeled as 358 classified by model as 13: 2 times
+Examples labeled as 358 classified by model as 194: 1 times
+Examples labeled as 359 classified by model as 13: 1 times
+Examples labeled as 359 classified by model as 463: 1 times
+Examples labeled as 361 classified by model as 372: 1 times
+Examples labeled as 362 classified by model as 73: 1 times
+Examples labeled as 363 classified by model as 559: 1 times
+Examples labeled as 364 classified by model as 13: 1 times
+Examples labeled as 364 classified by model as 27: 1 times
+Examples labeled as 368 classified by model as 357: 1 times
+Examples labeled as 369 classified by model as 556: 1 times
+Examples labeled as 371 classified by model as 225: 1 times
+Examples labeled as 372 classified by model as 372: 1 times
+Examples labeled as 377 classified by model as 447: 1 times
+Examples labeled as 378 classified by model as 13: 1 times
+Examples labeled as 378 classified by model as 35: 1 times
+Examples labeled as 379 classified by model as 358: 1 times
+Examples labeled as 380 classified by model as 402: 1 times
+Examples labeled as 384 classified by model as 372: 1 times
+Examples labeled as 385 classified by model as 381: 1 times
+Examples labeled as 391 classified by model as 234: 1 times
+Examples labeled as 392 classified by model as 478: 1 times
+Examples labeled as 395 classified by model as 64: 1 times
+Examples labeled as 396 classified by model as 122: 1 times
+Examples labeled as 397 classified by model as 205: 2 times
+Examples labeled as 406 classified by model as 1: 1 times
+Examples labeled as 406 classified by model as 46: 1 times
+Examples labeled as 406 classified by model as 392: 1 times
+Examples labeled as 411 classified by model as 1: 2 times
+Examples labeled as 411 classified by model as 68: 1 times
+Examples labeled as 415 classified by model as 154: 1 times
+Examples labeled as 419 classified by model as 168: 1 times
+Examples labeled as 419 classified by model as 175: 1 times
+Examples labeled as 420 classified by model as 313: 1 times
+Examples labeled as 421 classified by model as 252: 1 times
+Examples labeled as 421 classified by model as 372: 1 times
+Examples labeled as 421 classified by model as 478: 2 times
+Examples labeled as 424 classified by model as 13: 1 times
+Examples labeled as 424 classified by model as 526: 1 times
+Examples labeled as 429 classified by model as 458: 1 times
+Examples labeled as 430 classified by model as 479: 1 times
+Examples labeled as 434 classified by model as 453: 1 times
+Examples labeled as 440 classified by model as 285: 1 times
+Examples labeled as 446 classified by model as 178: 1 times
+Examples labeled as 447 classified by model as 406: 1 times
+Examples labeled as 448 classified by model as 226: 1 times
+Examples labeled as 449 classified by model as 23: 1 times
+Examples labeled as 449 classified by model as 505: 1 times
+Examples labeled as 451 classified by model as 226: 1 times
+Examples labeled as 453 classified by model as 374: 1 times
+Examples labeled as 453 classified by model as 456: 1 times
+Examples labeled as 454 classified by model as 229: 1 times
+Examples labeled as 455 classified by model as 407: 1 times
+Examples labeled as 456 classified by model as 469: 1 times
+Examples labeled as 459 classified by model as 290: 1 times
+Examples labeled as 459 classified by model as 459: 1 times
+Examples labeled as 459 classified by model as 474: 1 times
+Examples labeled as 460 classified by model as 460: 1 times
+Examples labeled as 465 classified by model as 320: 1 times
+Examples labeled as 465 classified by model as 340: 1 times
+Examples labeled as 471 classified by model as 463: 1 times
+Examples labeled as 472 classified by model as 392: 1 times
+Examples labeled as 474 classified by model as 459: 1 times
+Examples labeled as 474 classified by model as 463: 1 times
+Examples labeled as 474 classified by model as 474: 1 times
+Examples labeled as 474 classified by model as 576: 1 times
+Examples labeled as 476 classified by model as 477: 1 times
+Examples labeled as 485 classified by model as 226: 1 times
+Examples labeled as 486 classified by model as 490: 1 times
+Examples labeled as 487 classified by model as 364: 1 times
+Examples labeled as 488 classified by model as 499: 1 times
+Examples labeled as 489 classified by model as 342: 1 times
+Examples labeled as 491 classified by model as 154: 1 times
+Examples labeled as 503 classified by model as 469: 1 times
+Examples labeled as 503 classified by model as 498: 1 times
+Examples labeled as 506 classified by model as 154: 1 times
+Examples labeled as 507 classified by model as 221: 1 times
+Examples labeled as 509 classified by model as 565: 1 times
+Examples labeled as 510 classified by model as 506: 1 times
+Examples labeled as 512 classified by model as 433: 1 times
+Examples labeled as 513 classified by model as 506: 1 times
+Examples labeled as 513 classified by model as 513: 1 times
+Examples labeled as 514 classified by model as 357: 1 times
+Examples labeled as 514 classified by model as 368: 1 times
+Examples labeled as 517 classified by model as 46: 1 times
+Examples labeled as 518 classified by model as 46: 1 times
+Examples labeled as 519 classified by model as 154: 1 times
+Examples labeled as 520 classified by model as 35: 1 times
+Examples labeled as 520 classified by model as 378: 1 times
+Examples labeled as 521 classified by model as 4: 1 times
+Examples labeled as 524 classified by model as 68: 1 times
+Examples labeled as 524 classified by model as 407: 1 times
+Examples labeled as 527 classified by model as 237: 1 times
+Examples labeled as 528 classified by model as 392: 1 times
+Examples labeled as 535 classified by model as 469: 1 times
+Examples labeled as 539 classified by model as 414: 1 times
+Examples labeled as 539 classified by model as 541: 1 times
+Examples labeled as 540 classified by model as 469: 1 times
+Examples labeled as 541 classified by model as 543: 1 times
+Examples labeled as 542 classified by model as 372: 1 times
+Examples labeled as 548 classified by model as 4: 1 times
+Examples labeled as 552 classified by model as 165: 1 times
+Examples labeled as 554 classified by model as 414: 1 times
+Examples labeled as 554 classified by model as 421: 1 times
+Examples labeled as 555 classified by model as 372: 1 times
+Examples labeled as 558 classified by model as 493: 1 times
+Examples labeled as 560 classified by model as 27: 1 times
+Examples labeled as 570 classified by model as 122: 1 times
+Examples labeled as 570 classified by model as 408: 1 times
+Examples labeled as 571 classified by model as 122: 1 times
+Examples labeled as 572 classified by model as 19: 1 times
+Examples labeled as 575 classified by model as 407: 1 times
+Examples labeled as 578 classified by model as 297: 1 times
+Examples labeled as 579 classified by model as 294: 1 times
+
+Warning: 404 classes were never predicted by the model and were excluded from average precision
+Classes excluded from average precision: [0, 2, 3, 6, 8, 9, 11, 14, 16, 17, 18, 22, 24, 25, 26, 28, 29, 30, 31, 33, 34, 37, 38, 39, 41, 42, 43, 44, 48, 51, 52, 57, 59, 62, 63, 65, 66, 67, 70, 75, 76, 79, 81, 82, 85, 86, 87, 88, 90, 91, 92, 94, 95, 96, 97, 98, 99, 100, 101, 103, 104, 105, 109, 110, 111, 112, 113, 115, 116, 121, 123, 124, 125, 126, 127, 128, 129, 130, 131, 133, 134, 136, 138, 139, 140, 141, 142, 143, 144, 146, 147, 148, 150, 151, 152, 153, 158, 159, 160, 161, 162, 163, 164, 166, 170, 171, 172, 173, 174, 176, 177, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 206, 207, 209, 211, 213, 214, 216, 217, 218, 219, 220, 222, 223, 227, 228, 230, 233, 235, 239, 240, 242, 243, 244, 246, 247, 248, 249, 250, 254, 256, 257, 258, 260, 263, 264, 266, 267, 268, 271, 275, 276, 277, 279, 281, 282, 283, 284, 287, 288, 289, 291, 292, 293, 298, 299, 300, 302, 303, 305, 306, 307, 308, 309, 310, 312, 314, 315, 317, 318, 319, 321, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 334, 335, 336, 337, 338, 339, 343, 345, 346, 347, 348, 350, 351, 353, 354, 355, 356, 359, 360, 361, 362, 363, 365, 366, 367, 369, 370, 371, 373, 375, 376, 377, 379, 380, 383, 384, 385, 386, 387, 388, 389, 390, 391, 393, 394, 395, 397, 398, 399, 400, 401, 403, 404, 405, 410, 412, 413, 416, 417, 418, 419, 420, 422, 423, 424, 425, 426, 427, 429, 430, 431, 432, 434, 435, 436, 437, 438, 439, 440, 442, 443, 444, 445, 446, 448, 449, 450, 451, 452, 455, 457, 461, 462, 464, 466, 467, 470, 471, 472, 475, 476, 480, 481, 482, 484, 485, 486, 487, 488, 489, 491, 492, 494, 495, 496, 497, 500, 501, 502, 503, 504, 507, 508, 509, 510, 511, 512, 514, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524, 525, 527, 528, 529, 530, 531, 532, 533, 534, 535, 536, 537, 538, 539, 540, 542, 544, 545, 546, 547, 549, 550, 551, 552, 553, 554, 555, 557, 558, 560, 561, 562, 563, 564, 566, 567, 568, 569, 570, 571, 572, 573, 574, 575, 577, 578, 579, 581, 582]
+Warning: 345 classes were never predicted by the model and were excluded from average recall
+Classes excluded from average recall: [0, 10, 11, 14, 15, 16, 17, 18, 21, 24, 25, 28, 29, 30, 31, 33, 34, 36, 38, 39, 42, 43, 44, 48, 50, 51, 52, 53, 55, 57, 59, 62, 63, 65, 66, 70, 71, 76, 77, 81, 84, 86, 89, 90, 91, 92, 94, 95, 97, 101, 103, 104, 106, 107, 113, 115, 116, 117, 123, 124, 125, 126, 127, 128, 129, 130, 131, 133, 134, 137, 138, 139, 140, 141, 143, 145, 146, 147, 148, 149, 153, 155, 160, 163, 164, 165, 168, 173, 174, 177, 182, 183, 184, 187, 188, 189, 190, 191, 192, 193, 195, 196, 197, 198, 199, 200, 201, 203, 204, 205, 206, 207, 208, 211, 212, 213, 214, 215, 216, 217, 218, 220, 222, 225, 228, 230, 231, 232, 233, 234, 235, 236, 239, 242, 243, 244, 245, 247, 248, 249, 250, 251, 253, 258, 259, 262, 266, 267, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 280, 281, 283, 287, 288, 289, 290, 292, 294, 297, 300, 301, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 322, 323, 325, 327, 328, 329, 330, 332, 336, 337, 339, 340, 342, 343, 344, 346, 349, 351, 352, 355, 360, 365, 366, 367, 370, 373, 374, 375, 376, 381, 382, 383, 386, 387, 388, 389, 390, 393, 394, 398, 399, 400, 401, 402, 403, 404, 405, 407, 408, 409, 410, 412, 413, 414, 416, 417, 418, 422, 423, 425, 426, 427, 428, 431, 432, 433, 435, 436, 437, 438, 439, 441, 442, 443, 444, 445, 450, 452, 457, 458, 461, 462, 463, 464, 466, 467, 468, 469, 470, 473, 475, 477, 478, 479, 480, 481, 482, 483, 484, 490, 492, 493, 494, 495, 496, 497, 498, 499, 500, 501, 502, 504, 505, 508, 511, 515, 516, 522, 523, 525, 526, 529, 530, 531, 532, 533, 534, 536, 537, 538, 543, 544, 545, 546, 547, 549, 550, 551, 553, 556, 557, 559, 561, 562, 563, 564, 565, 566, 567, 568, 569, 573, 574, 576, 577, 580, 581, 582]
+
+==========================Scores========================================
+ # of classes:    583
+ Accuracy:        0.2180
+ Precision:       0.1115	(404 classes excluded from average)
+ Recall:          0.0994	(345 classes excluded from average)
+ F1 Score:        0.2123	(492 classes excluded from average)
+Precision, recall & F1: macro-averaged (equally weighted avg. of 583 classes)
+========================================================================
+Top 3 Recommendation: 
+Accuracy: 0.274
+Precision: 0.6927801071868218
+Recall: 1.0
+F1 Score: 0.8185116356762148
+
+=====================================================================
+
+Top 5 Recommendation: 
+Accuracy: 0.332
+Precision: 0.7465927231107496
+Recall: 1.0
+F1 Score: 0.8549133558521175
+
+=====================================================================
+
+Top 10 Recommendation: 
+Accuracy: 0.37
+Precision: 0.8059246991807477
+Recall: 1.0
+F1 Score: 0.8925341123540235
+
+=====================================================================
+
+
+File Name: 
+===========================================================
+Examples labeled as 1 classified by model as 1: 3 times
+Examples labeled as 2 classified by model as 2: 7 times
+Examples labeled as 3 classified by model as 3: 10 times
+Examples labeled as 3 classified by model as 14: 4 times
+Examples labeled as 3 classified by model as 33: 1 times
+Examples labeled as 4 classified by model as 4: 4 times
+Examples labeled as 4 classified by model as 10: 1 times
+Examples labeled as 5 classified by model as 5: 4 times
+Examples labeled as 5 classified by model as 11: 3 times
+Examples labeled as 6 classified by model as 6: 3 times
+Examples labeled as 7 classified by model as 7: 7 times
+Examples labeled as 7 classified by model as 8: 1 times
+Examples labeled as 8 classified by model as 7: 3 times
+Examples labeled as 8 classified by model as 8: 6 times
+Examples labeled as 9 classified by model as 8: 3 times
+Examples labeled as 10 classified by model as 10: 3 times
+Examples labeled as 14 classified by model as 2: 1 times
+Examples labeled as 14 classified by model as 3: 3 times
+Examples labeled as 14 classified by model as 14: 2 times
+Examples labeled as 15 classified by model as 10: 1 times
+Examples labeled as 15 classified by model as 15: 6 times
+Examples labeled as 15 classified by model as 17: 1 times
+Examples labeled as 17 classified by model as 17: 1 times
+Examples labeled as 17 classified by model as 18: 1 times
+Examples labeled as 18 classified by model as 17: 1 times
+Examples labeled as 18 classified by model as 18: 1 times
+Examples labeled as 18 classified by model as 67: 1 times
+Examples labeled as 23 classified by model as 17: 1 times
+Examples labeled as 25 classified by model as 1: 1 times
+Examples labeled as 26 classified by model as 24: 1 times
+Examples labeled as 27 classified by model as 4: 1 times
+Examples labeled as 27 classified by model as 11: 2 times
+Examples labeled as 28 classified by model as 2: 1 times
+Examples labeled as 29 classified by model as 11: 1 times
+Examples labeled as 30 classified by model as 11: 1 times
+Examples labeled as 31 classified by model as 31: 1 times
+Examples labeled as 32 classified by model as 2: 1 times
+Examples labeled as 34 classified by model as 16: 1 times
+Examples labeled as 53 classified by model as 1: 1 times
+Examples labeled as 57 classified by model as 58: 1 times
+Examples labeled as 60 classified by model as 15: 1 times
+Examples labeled as 62 classified by model as 1: 1 times
+Examples labeled as 64 classified by model as 44: 1 times
+Examples labeled as 64 classified by model as 65: 1 times
+
+Warning: 47 classes were never predicted by the model and were excluded from average precision
+Classes excluded from average precision: [0, 9, 12, 13, 19, 20, 21, 22, 23, 25, 26, 27, 28, 29, 30, 32, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 59, 60, 61, 62, 63, 64, 66, 68]
+Warning: 40 classes were never predicted by the model and were excluded from average recall
+Classes excluded from average recall: [0, 11, 12, 13, 16, 19, 20, 21, 22, 24, 33, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 54, 55, 56, 58, 59, 61, 63, 65, 66, 67, 68]
+
+==========================Scores========================================
+ # of classes:    69
+ Accuracy:        0.5800
+ Precision:       0.4368	(47 classes excluded from average)
+ Recall:          0.3619	(40 classes excluded from average)
+ F1 Score:        0.6970	(55 classes excluded from average)
+Precision, recall & F1: macro-averaged (equally weighted avg. of 69 classes)
+========================================================================
+Top 3 Recommendation: 
+Accuracy: 0.83
+Precision: 0.9593137254901961
+Recall: 1.0
+F1 Score: 0.9792344258193645
+
+=====================================================================
+
+Top 5 Recommendation: 
+Accuracy: 0.84
+Precision: 0.9615740740740741
+Recall: 1.0
+F1 Score: 0.980410667925419
+
+=====================================================================
+
+Top 10 Recommendation: 
+Accuracy: 0.88
+Precision: 0.9912280701754387
+Recall: 1.0
+F1 Score: 0.9955947136563876
+
+=====================================================================
+
+
+File Name: 
+===========================================================
+Examples labeled as 3 classified by model as 3: 1 times
+Examples labeled as 3 classified by model as 26: 1 times
+Examples labeled as 3 classified by model as 107: 1 times
+Examples labeled as 3 classified by model as 333: 1 times
+Examples labeled as 4 classified by model as 245: 1 times
+Examples labeled as 5 classified by model as 5: 1 times
+Examples labeled as 5 classified by model as 245: 1 times
+Examples labeled as 7 classified by model as 11: 1 times
+Examples labeled as 16 classified by model as 16: 1 times
+Examples labeled as 19 classified by model as 184: 1 times
+Examples labeled as 23 classified by model as 5: 1 times
+Examples labeled as 23 classified by model as 245: 1 times
+Examples labeled as 24 classified by model as 105: 1 times
+Examples labeled as 26 classified by model as 26: 3 times
+Examples labeled as 26 classified by model as 105: 2 times
+Examples labeled as 26 classified by model as 168: 1 times
+Examples labeled as 28 classified by model as 29: 1 times
+Examples labeled as 31 classified by model as 32: 1 times
+Examples labeled as 45 classified by model as 45: 1 times
+Examples labeled as 47 classified by model as 60: 1 times
+Examples labeled as 55 classified by model as 93: 1 times
+Examples labeled as 57 classified by model as 18: 1 times
+Examples labeled as 64 classified by model as 32: 1 times
+Examples labeled as 64 classified by model as 64: 3 times
+Examples labeled as 64 classified by model as 65: 1 times
+Examples labeled as 65 classified by model as 33: 1 times
+Examples labeled as 65 classified by model as 64: 3 times
+Examples labeled as 65 classified by model as 236: 1 times
+Examples labeled as 69 classified by model as 60: 1 times
+Examples labeled as 72 classified by model as 89: 1 times
+Examples labeled as 73 classified by model as 76: 1 times
+Examples labeled as 91 classified by model as 158: 2 times
+Examples labeled as 93 classified by model as 93: 4 times
+Examples labeled as 95 classified by model as 93: 1 times
+Examples labeled as 95 classified by model as 118: 1 times
+Examples labeled as 97 classified by model as 107: 1 times
+Examples labeled as 98 classified by model as 95: 1 times
+Examples labeled as 101 classified by model as 102: 1 times
+Examples labeled as 105 classified by model as 105: 3 times
+Examples labeled as 105 classified by model as 430: 1 times
+Examples labeled as 106 classified by model as 105: 1 times
+Examples labeled as 107 classified by model as 97: 1 times
+Examples labeled as 108 classified by model as 95: 1 times
+Examples labeled as 108 classified by model as 108: 1 times
+Examples labeled as 108 classified by model as 114: 1 times
+Examples labeled as 110 classified by model as 110: 1 times
+Examples labeled as 112 classified by model as 111: 1 times
+Examples labeled as 113 classified by model as 116: 1 times
+Examples labeled as 114 classified by model as 116: 1 times
+Examples labeled as 115 classified by model as 147: 1 times
+Examples labeled as 115 classified by model as 202: 1 times
+Examples labeled as 117 classified by model as 117: 1 times
+Examples labeled as 118 classified by model as 94: 1 times
+Examples labeled as 118 classified by model as 118: 4 times
+Examples labeled as 119 classified by model as 119: 3 times
+Examples labeled as 120 classified by model as 119: 1 times
+Examples labeled as 120 classified by model as 147: 1 times
+Examples labeled as 122 classified by model as 158: 1 times
+Examples labeled as 136 classified by model as 118: 1 times
+Examples labeled as 141 classified by model as 149: 1 times
+Examples labeled as 142 classified by model as 135: 1 times
+Examples labeled as 143 classified by model as 11: 1 times
+Examples labeled as 144 classified by model as 10: 1 times
+Examples labeled as 145 classified by model as 137: 1 times
+Examples labeled as 146 classified by model as 230: 1 times
+Examples labeled as 147 classified by model as 147: 1 times
+Examples labeled as 151 classified by model as 245: 1 times
+Examples labeled as 154 classified by model as 110: 1 times
+Examples labeled as 155 classified by model as 94: 1 times
+Examples labeled as 155 classified by model as 95: 1 times
+Examples labeled as 155 classified by model as 155: 1 times
+Examples labeled as 158 classified by model as 158: 1 times
+Examples labeled as 159 classified by model as 158: 1 times
+Examples labeled as 160 classified by model as 5: 1 times
+Examples labeled as 160 classified by model as 151: 1 times
+Examples labeled as 160 classified by model as 245: 1 times
+Examples labeled as 165 classified by model as 170: 1 times
+Examples labeled as 168 classified by model as 355: 1 times
+Examples labeled as 169 classified by model as 193: 1 times
+Examples labeled as 170 classified by model as 155: 1 times
+Examples labeled as 173 classified by model as 169: 1 times
+Examples labeled as 184 classified by model as 170: 1 times
+Examples labeled as 184 classified by model as 184: 3 times
+Examples labeled as 186 classified by model as 208: 1 times
+Examples labeled as 195 classified by model as 187: 2 times
+Examples labeled as 197 classified by model as 184: 1 times
+Examples labeled as 203 classified by model as 188: 1 times
+Examples labeled as 218 classified by model as 218: 1 times
+Examples labeled as 222 classified by model as 227: 1 times
+Examples labeled as 223 classified by model as 208: 1 times
+Examples labeled as 231 classified by model as 134: 1 times
+Examples labeled as 235 classified by model as 242: 3 times
+Examples labeled as 241 classified by model as 242: 7 times
+Examples labeled as 242 classified by model as 242: 9 times
+Examples labeled as 243 classified by model as 242: 1 times
+Examples labeled as 254 classified by model as 254: 1 times
+Examples labeled as 255 classified by model as 117: 1 times
+Examples labeled as 257 classified by model as 3: 1 times
+Examples labeled as 259 classified by model as 269: 1 times
+Examples labeled as 260 classified by model as 26: 1 times
+Examples labeled as 260 classified by model as 249: 1 times
+Examples labeled as 264 classified by model as 296: 1 times
+Examples labeled as 265 classified by model as 265: 1 times
+Examples labeled as 269 classified by model as 158: 1 times
+Examples labeled as 271 classified by model as 169: 1 times
+Examples labeled as 273 classified by model as 158: 1 times
+Examples labeled as 289 classified by model as 242: 1 times
+Examples labeled as 289 classified by model as 289: 1 times
+Examples labeled as 297 classified by model as 278: 1 times
+Examples labeled as 315 classified by model as 110: 1 times
+Examples labeled as 323 classified by model as 26: 1 times
+Examples labeled as 323 classified by model as 313: 1 times
+Examples labeled as 326 classified by model as 440: 1 times
+Examples labeled as 330 classified by model as 333: 1 times
+Examples labeled as 331 classified by model as 435: 1 times
+Examples labeled as 332 classified by model as 318: 1 times
+Examples labeled as 332 classified by model as 332: 1 times
+Examples labeled as 333 classified by model as 442: 1 times
+Examples labeled as 334 classified by model as 334: 1 times
+Examples labeled as 335 classified by model as 342: 1 times
+Examples labeled as 335 classified by model as 435: 1 times
+Examples labeled as 340 classified by model as 340: 1 times
+Examples labeled as 346 classified by model as 357: 1 times
+Examples labeled as 355 classified by model as 336: 1 times
+Examples labeled as 360 classified by model as 363: 1 times
+Examples labeled as 362 classified by model as 242: 4 times
+Examples labeled as 373 classified by model as 110: 1 times
+Examples labeled as 376 classified by model as 128: 1 times
+Examples labeled as 377 classified by model as 271: 1 times
+Examples labeled as 381 classified by model as 110: 1 times
+Examples labeled as 382 classified by model as 110: 1 times
+Examples labeled as 392 classified by model as 114: 1 times
+Examples labeled as 393 classified by model as 198: 1 times
+Examples labeled as 404 classified by model as 64: 1 times
+Examples labeled as 406 classified by model as 122: 1 times
+Examples labeled as 430 classified by model as 430: 2 times
+Examples labeled as 430 classified by model as 436: 1 times
+Examples labeled as 431 classified by model as 340: 1 times
+Examples labeled as 434 classified by model as 430: 1 times
+Examples labeled as 435 classified by model as 430: 1 times
+Examples labeled as 440 classified by model as 440: 1 times
+
+Warning: 367 classes were never predicted by the model and were excluded from average precision
+Classes excluded from average precision: [0, 1, 2, 4, 6, 7, 8, 9, 12, 13, 14, 15, 17, 19, 20, 21, 22, 23, 24, 25, 27, 28, 30, 31, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 61, 62, 63, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 90, 91, 92, 96, 98, 99, 100, 101, 103, 104, 106, 109, 112, 113, 115, 120, 121, 123, 124, 125, 126, 127, 129, 130, 131, 132, 133, 136, 138, 139, 140, 141, 142, 143, 144, 145, 146, 148, 150, 152, 153, 154, 156, 157, 159, 160, 161, 162, 163, 164, 165, 166, 167, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 185, 186, 189, 190, 191, 192, 194, 195, 196, 197, 199, 200, 201, 203, 204, 205, 206, 207, 209, 210, 211, 212, 213, 214, 215, 216, 217, 219, 220, 221, 222, 223, 224, 225, 226, 228, 229, 231, 232, 233, 234, 235, 237, 238, 239, 240, 241, 243, 244, 246, 247, 248, 250, 251, 252, 253, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 266, 267, 268, 270, 272, 273, 274, 275, 276, 277, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 290, 291, 292, 293, 294, 295, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 314, 315, 316, 317, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 335, 337, 338, 339, 341, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 356, 358, 359, 360, 361, 362, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400, 401, 402, 403, 404, 405, 406, 407, 408, 409, 410, 411, 412, 413, 414, 415, 416, 417, 418, 419, 420, 421, 422, 423, 424, 425, 426, 427, 428, 429, 431, 432, 433, 434, 437, 438, 439, 441, 443, 444, 445, 446, 447]
+Warning: 336 classes were never predicted by the model and were excluded from average recall
+Classes excluded from average recall: [0, 1, 2, 6, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 20, 21, 22, 25, 27, 29, 30, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 46, 48, 49, 50, 51, 52, 53, 54, 56, 58, 59, 60, 61, 62, 63, 66, 67, 68, 70, 71, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 92, 94, 96, 99, 100, 102, 103, 104, 109, 111, 116, 121, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 137, 138, 139, 140, 148, 149, 150, 152, 153, 156, 157, 161, 162, 163, 164, 166, 167, 171, 172, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 185, 187, 188, 189, 190, 191, 192, 193, 194, 196, 198, 199, 200, 201, 202, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 219, 220, 221, 224, 225, 226, 227, 228, 229, 230, 232, 233, 234, 236, 237, 238, 239, 240, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 256, 258, 261, 262, 263, 266, 267, 268, 270, 272, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 290, 291, 292, 293, 294, 295, 296, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 316, 317, 318, 319, 320, 321, 322, 324, 325, 327, 328, 329, 336, 337, 338, 339, 341, 342, 343, 344, 345, 347, 348, 349, 350, 351, 352, 353, 354, 356, 357, 358, 359, 361, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 374, 375, 378, 379, 380, 383, 384, 385, 386, 387, 388, 389, 390, 391, 394, 395, 396, 397, 398, 399, 400, 401, 402, 403, 405, 407, 408, 409, 410, 411, 412, 413, 414, 415, 416, 417, 418, 419, 420, 421, 422, 423, 424, 425, 426, 427, 428, 429, 432, 433, 436, 437, 438, 439, 441, 442, 443, 444, 445, 446, 447]
+
+==========================Scores========================================
+ # of classes:    448
+ Accuracy:        0.2857
+ Precision:       0.2133	(367 classes excluded from average)
+ Recall:          0.1918	(336 classes excluded from average)
+ F1 Score:        0.4197	(406 classes excluded from average)
+Precision, recall & F1: macro-averaged (equally weighted avg. of 448 classes)
+========================================================================
+Top 3 Recommendation: 
+Accuracy: 0.24175824175824176
+Precision: 0.8563492063492064
+Recall: 1.0
+F1 Score: 0.9226165027789655
+
+=====================================================================
+
+Top 5 Recommendation: 
+Accuracy: 0.25824175824175827
+Precision: 0.868840579710145
+Recall: 1.0
+F1 Score: 0.9298177588212486
+
+=====================================================================
+
+Top 10 Recommendation: 
+Accuracy: 0.2857142857142857
+Precision: 0.9073333333333334
+Recall: 1.0
+F1 Score: 0.951415588954911
+
+=====================================================================
+
+

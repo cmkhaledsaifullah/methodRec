@@ -1,0 +1,117 @@
+File Name: /home/cms500/workspace/dataset/JEdit/outputNumberJEdit1_1.txt
+Maximum Size of an observation: 31
+Number of Unique Method Call: 257
+Number of Observation: 2500
+
+
+========================================================================================
+
+
+File Name: /home/cms500/workspace/dataset/JEdit/outputNumberJEdit1_2.txt
+Maximum Size of an observation: 53
+Number of Unique Method Call: 185
+Number of Observation: 1669
+
+
+========================================================================================
+
+
+File Name: dataset/JEdit/outputNumberJEdit_1.txt
+Maximum Size of an observation: 67
+Number of Unique Method Call: 641
+Number of Observation: 2500
+
+
+========================================================================================
+
+
+File Name: dataset/JEdit/outputNumberJEdit_2.txt
+Maximum Size of an observation: 71
+Number of Unique Method Call: 502
+Number of Observation: 2500
+
+
+========================================================================================
+
+
+File Name: dataset/JEdit/outputNumberJEdit_3.txt
+Maximum Size of an observation: 74
+Number of Unique Method Call: 615
+Number of Observation: 2500
+
+
+========================================================================================
+
+
+File Name: dataset/JEdit/outputNumberJEdit_4.txt
+Maximum Size of an observation: 65
+Number of Unique Method Call: 581
+Number of Observation: 2500
+
+
+========================================================================================
+
+
+File Name: dataset/JEdit/outputNumberJEdit_5.txt
+Maximum Size of an observation: 28
+Number of Unique Method Call: 503
+Number of Observation: 2500
+
+
+========================================================================================
+
+
+File Name: dataset/JEdit/outputNumberJEdit_6.txt
+Maximum Size of an observation: 85
+Number of Unique Method Call: 577
+Number of Observation: 2500
+
+
+========================================================================================
+
+
+File Name: dataset/JEdit/outputNumberJEdit_7.txt
+Maximum Size of an observation: 65
+Number of Unique Method Call: 354
+Number of Observation: 2500
+
+
+========================================================================================
+
+
+File Name: dataset/JEdit/outputNumberJEdit_8.txt
+Maximum Size of an observation: 53
+Number of Unique Method Call: 450
+Number of Observation: 2500
+
+
+========================================================================================
+
+
+File Name: /home/cms500/workspace/dataset/JEdit/outputNumberJEdit_9.txt
+Maximum Size of an observation: 111
+Number of Unique Method Call: 434
+Number of Observation: 2500
+
+
+========================================================================================
+
+
+File Name: /home/cms500/workspace/dataset/JEdit/outputNumberJEdit_10.txt
+Maximum Size of an observation: 256
+Number of Unique Method Call: 536
+Number of Observation: 2500
+
+
+========================================================================================
+
+
+File Name: /home/cms500/workspace/dataset/JEdit/outputNumberJEdit_11.txt
+Maximum Size of an observation: 35
+Number of Unique Method Call: 288
+Number of Observation: 816
+
+
+========================================================================================
+
+

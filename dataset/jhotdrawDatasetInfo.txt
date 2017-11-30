@@ -1,0 +1,27 @@
+File Name: dataset/JHotDraw/outputNumberJHotDraw_1.txt
+Maximum Size of an observation: 12
+Number of Unique Method Call: 86
+Number of Observation: 1100
+
+
+========================================================================================
+
+
+File Name: dataset/JHotDraw/outputNumberJHotDraw_1.txt
+Maximum Size of an observation: 55
+Number of Unique Method Call: 486
+Number of Observation: 2500
+
+
+========================================================================================
+
+
+File Name: dataset/JHotDraw/outputNumberJHotDraw_2.txt
+Maximum Size of an observation: 53
+Number of Unique Method Call: 278
+Number of Observation: 1329
+
+
+========================================================================================
+
+
